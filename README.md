@@ -18,7 +18,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,tailwind,nodejs,express,flask,fastapi,tensorflow,pytorch,git,github,vscode,mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,fastapi,tensorflow,pytorch,git,github,vscode,mongodb" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
   <a href="https://github.com/DurgeshRajput11/agriVision">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=agriVision&theme=radical" />
   </a>
-  <a href="https://github.com/DurgeshRajput11/ASL-talk">
+  <a href="https://github.com/DurgeshRajput11/ASL-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=ASL-talk&theme=radical" />
   </a>
 </p>
@@ -47,7 +47,7 @@
 ## 🧪 What I'm Learning Right Now
 - 📦 **DSA** 
 - 🧠 **Applying Tech to Real life Projects .**
-- 📱 **Exlporing AI ** 
+- 📱 **Exploring AI** 
 
 ---
 
@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/durgesh-singh-09844b253/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:dsgaur1125@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/DurgeshRajput11">

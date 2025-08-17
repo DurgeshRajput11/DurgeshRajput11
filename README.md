@@ -13,7 +13,7 @@
 - 🎯 **Skills:** Python, ML, AI, Cloud Platforms, DSA, Web Dev, etc.
 - 🧰 Prefer **Python & C++** , **Flask, TensorFlow, PyTorch**
 - 📚 Consistent with **DSA**
-- 🌱 Learning modern technologies & contributing to open source.
+- 🌱 **Learning modern technologies & contributing to open source**.
 
 ---
 
@@ -35,12 +35,6 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/DurgeshRajput11/Ridy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=Ridy&theme=radical" />
-  </a>
-  <a href="https://github.com/DurgeshRajput11/offline-voice-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=offline-voice-assistant&theme=radical" />
-  </a>
   <a href="https://github.com/DurgeshRajput11/agriVision">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=agriVision&theme=radical" />
   </a>
@@ -60,7 +54,7 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https:/www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/durgesh-singh-09844b253/">
+  <a href="https://www.linkedin.com/in/durgesh-singh-09844b253/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
@@ -75,8 +69,3 @@
 
 """
 
-path = "/mnt/data/README.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(readme_content_updated)
-
-path

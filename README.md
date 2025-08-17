@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurgeshRajput11&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgeshRajput11&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshRajput11&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DurgeshRajput11&show_icons=true&theme=radical&cache_seconds=100" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgeshRajput11&theme=radical&cache_seconds=100" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshRajput11&layout=compact&theme=radical&cache_seconds=100" alt="Top Languages" />
 </p>
 
 ---
@@ -38,7 +38,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=agriVision&theme=radical" />
   </a>
   <a href="https://github.com/DurgeshRajput11/ASL-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=ASL-AI&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=AgriVision&cache_seconds=100
+&theme=radical" />
   </a>
 </p>
 

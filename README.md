@@ -1,4 +1,3 @@
-# Update the README.md content to include AgriVision and ASL Talk in Featured Projects section
 <h1 align="center">👋 Hi, I'm Durgesh Rajput!</h1>
 
 <p align="center">

@@ -35,11 +35,10 @@
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/DurgeshRajput11/agriVision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=agriVision&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=agriVision&theme=radical&cache_seconds=100" />
   </a>
   <a href="https://github.com/DurgeshRajput11/ASL-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=AgriVision&cache_seconds=100
-&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=ASL-AI&theme=radical&cache_seconds=100" />
   </a>
 </p>
 

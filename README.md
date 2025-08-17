@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=agriVision&theme=radical" />
   </a>
   <a href="https://github.com/DurgeshRajput11/ASL-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=ASL-talk&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=ASL-AI&theme=radical" />
   </a>
 </p>
 

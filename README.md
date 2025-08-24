@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Durgesh Rajput!</h1>
+<h1 align="center">👋 Hi, I'm Durgesh Singh!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%7C+Problem+Solver;Open+to+collaboration+%26+internships" alt="Typing SVG" />

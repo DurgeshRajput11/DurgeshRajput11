@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 About Me
+## About Myself
 -  **B.Tech (IT), IIIT Una (2024–2028)**
 - **Ex- Research Intern IIITDM Jabalpur**
 -  **ML Engineer Intern - PropGrowthX**
@@ -18,14 +18,14 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,flask,tensorflow,pytorch,git,github,vscode,html,css,fastapi,mongodb" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DurgeshRajput11&show_icons=true&theme=radical&cache_seconds=100" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgeshRajput11&theme=radical&cache_seconds=100" alt="Streak Stats" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 <p align="center">
   <a href="https://github.com/DurgeshRajput11/agriVision">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=agriVision&theme=radical&cache_seconds=100" />
@@ -46,10 +46,10 @@
 
 ---
 
-## 🧪 What I'm Learning Right Now
-- 📦 **DSA** 
-- 🧠 **Applying Tech to Real life Projects .**
-- 📱 **Exploring AI** 
+##  What I'm Learning Right Now
+-  **DSA** 
+-  **Applying Tech to Real life Projects .**
+-  **Exploring AI** 
 
 ---
 

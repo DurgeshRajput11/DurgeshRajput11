@@ -7,14 +7,14 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **B.Tech (IT), IIIT Una (2024–2028)**
-- 🚀 **Ex- Research Intern IIITDM Jabalpur**
-- 💼 **ML Engineer Intern - PropGrowthX**
-- 💡 Passionate about **AI/ML/DL, Computer Vision, and  Gen AI**
-- 🎯 **Skills:** Python, ML, AI, Cloud Platforms, DSA, Web Dev, etc.
-- 🧰 Prefer **Python & C++** , **Flask, TensorFlow, PyTorch**
-- 📚 Consistent with **DSA**
-- 🌱 **Learning modern technologies & contributing to open source**.
+-  **B.Tech (IT), IIIT Una (2024–2028)**
+- **Ex- Research Intern IIITDM Jabalpur**
+-  **ML Engineer Intern - PropGrowthX**
+-  Passionate about **AI/ML/DL, Computer Vision, and  Gen AI**
+- **Skills:** Python, ML, AI, Cloud Platforms, DSA, Web Dev, etc.
+-  Prefer **Python & C++** , **Flask, TensorFlow, PyTorch**
+-  Consistent with **DSA**
+-  **Learning modern technologies & contributing to open source**.
 
 ---
 

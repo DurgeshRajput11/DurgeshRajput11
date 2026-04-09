@@ -32,19 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshRajput11&layout=compact&theme=radical&cache_seconds=100" alt="Top Languages" />
 </p>
 
----
 
-##  Featured Projects
-<p align="center">
-  <a href="https://github.com/DurgeshRajput11/agriVision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=agriVision&theme=radical&cache_seconds=100" />
-  </a>
-  <a href="https://github.com/DurgeshRajput11/ASL-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshRajput11&repo=ASL-AI&theme=radical&cache_seconds=100" />
-  </a>
-</p>
-
----
 
 ##  What I'm Learning Right Now
 -  **DSA** 
